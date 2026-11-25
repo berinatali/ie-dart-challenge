@@ -3,6 +3,14 @@
 A desktop game built with Python and Tkinter that mixes **dart throwing** with an **Industrial Engineering quiz**. Hit the moving target to score dart points, then answer a question to earn bonus points. You have 5 minutes and 5 lives, so make every throw and every answer count.
 
 > The in-game interface and the quiz questions are in **Turkish**.
+## 📸 Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+![Quiz](screenshots/quiz.png)
+![How to play](screenshots/rules.png)
+
+
+
 
 ## ✨ Features
 
@@ -30,8 +38,8 @@ sudo apt install python3-tk
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<berinatali>/<berinatali/ie-dart-challenge>.git
+cd <ie-dart-challenge>
 python dart_game.py
 ```
 
