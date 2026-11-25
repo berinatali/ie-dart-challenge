@@ -7,6 +7,8 @@ A desktop game built with Python and Tkinter that mixes **dart throwing** with a
 <img width="1919" height="1022" alt="gameplay" src="https://github.com/user-attachments/assets/d4f7e253-5dd7-4cfd-9cd0-63aafaab985d" />
 <img width="1919" height="1017" alt="quiz" src="https://github.com/user-attachments/assets/a3521423-cfb2-4c8d-b71b-34fa52e45b4d" />
 <img width="996" height="932" alt="rules" src="https://github.com/user-attachments/assets/3b541149-840a-4606-aee6-4ba478c4ca54" />
+<img width="1919" height="1076" alt="Ekran görüntüsü 2026-11-25 121549" src="https://github.com/user-attachments/assets/85dfc352-07a3-4680-8404-9ac96408a25e" />
+
 
 
 
