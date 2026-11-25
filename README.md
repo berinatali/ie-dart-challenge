@@ -4,10 +4,11 @@ A desktop game built with Python and Tkinter that mixes **dart throwing** with a
 
 > The in-game interface and the quiz questions are in **Turkish**.
 ## 📸 Screenshots
+<img width="1919" height="1022" alt="gameplay" src="https://github.com/user-attachments/assets/d4f7e253-5dd7-4cfd-9cd0-63aafaab985d" />
+<img width="1919" height="1017" alt="quiz" src="https://github.com/user-attachments/assets/a3521423-cfb2-4c8d-b71b-34fa52e45b4d" />
+<img width="996" height="932" alt="rules" src="https://github.com/user-attachments/assets/3b541149-840a-4606-aee6-4ba478c4ca54" />
 
-![Gameplay](screenshots/gameplay.png)
-![Quiz](screenshots/quiz.png)
-![How to play](screenshots/rules.png)
+
 
 
 
